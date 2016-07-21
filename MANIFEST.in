@@ -1,0 +1,6 @@
+include LICENSE
+include README.rst
+recursive-exclude reusable_auth *.pyc
+recursive-include reusable_auth *.css
+recursive-include reusable_auth *.html
+recursive-include reusable_auth *.py
