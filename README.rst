@@ -5,6 +5,8 @@ To install:
 pip install git+https://github.com/NielMc/My-ReusableAuthPackage
 To update:
 pip install git+https://github.com/NielMc/My-ReusableAuthPackage --upgrade
+Add the following line to your requirements.txt file:
+git+https://github.com/NielMc/My-ReusableAuthPackage
 
 
 Quick start -----------
